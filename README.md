@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝗥𝗮𝗷 𝗗𝘂𝗯𝗲𝘆!
+# 👋 **Hey there, I'm Raj Dubey!**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒+𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇;𝒞𝓁𝑜𝓊𝒹+𝐸𝓃𝓉𝒽𝓊𝓈𝒾𝒶𝓈𝓉;𝐹𝓊𝓁𝓁+𝒮𝓉𝒶𝒸𝓀+𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇;𝒜𝒲𝒮+%26+𝒯𝑒𝓇𝓇𝒶𝒻𝑜𝓇𝓂+𝒮𝓅𝑒𝒸𝒾𝒶𝓁𝒾𝓈𝓉;𝒪𝓅𝑒𝓃+𝒮𝑜𝓊𝓇𝒸𝑒+𝒞𝑜𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝑜𝓇)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Cloud+Enthusiast;Full+Stack+Developer;AWS+%26+Terraform+Specialist;Open+Source+Contributor)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
+## 💼 **PROFESSIONAL EXPERIENCE**
 
 </div>
 
@@ -24,9 +24,9 @@
 <tr>
 <td width="50%">
 
-### 🏢 𝗛𝗧𝗖 𝗚𝗹𝗼𝗯𝗮𝗹 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀
-#### 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝒯𝓇𝒶𝒾𝓃𝑒𝑒 𝐼𝓃𝓉𝑒𝓇𝓃
-**📅 𝑀𝒶𝓇𝒸𝒽 𝟤𝟢𝟤𝟧 - 𝒫𝓇𝑒𝓈𝑒𝓃𝓉**
+### 🏢 **HTC Global Services**
+#### Software Trainee Intern
+**📅 March 2025 - Present**
 
 </td>
 <td width="50%">
@@ -39,13 +39,13 @@
 
 <div align="center">
 
-### ☁️ 𝗖𝗹𝗼𝘂𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁: 𝗔𝗪𝗦 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
+### ☁️ **Cloud Project: AWS Infrastructure & Automation**
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-🚀 **𝒜𝒲𝒮 𝒮𝑒𝓇𝓋𝒾𝒸𝑒𝓈**<br>
+🚀 **AWS Services**<br>
 EC2, S3, Lambda<br>
 RDS, DynamoDB, IAM<br>
 API Gateway
@@ -53,7 +53,7 @@ API Gateway
 </td>
 <td align="center" width="33%">
 
-📊 **𝑀𝑜𝓃𝒾𝓉𝑜𝓇𝒾𝓃𝑔**<br>
+📊 **Monitoring & Alerting**<br>
 CloudWatch<br>
 SNS, AWS CLI<br>
 Real-time Management
@@ -61,22 +61,22 @@ Real-time Management
 </td>
 <td align="center" width="33%">
 
-🔧 **𝒜𝓊𝓉𝑜𝓂𝒶𝓉𝒾𝑜𝓃**<br>
-Serverless Apps<br>
+🔧 **Application Development**<br>
+Serverless Applications<br>
 Cloud-based Solutions<br>
-Infrastructure Tasks
+Infrastructure Automation
 
 </td>
 </tr>
 </table>
 
-### 🛠️ 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗣𝗿𝗼𝗷𝗲𝗰𝘁: 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝗮𝘀 𝗖𝗼𝗱𝗲
+### 🛠️ **Terraform Project: Infrastructure as Code**
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-🏗️ **𝑅𝑒𝓈𝑜𝓊𝓇𝒸𝑒 𝑀𝒶𝓃𝒶𝑔𝑒𝓂𝑒𝓃𝓉**<br>
+🏗️ **Resource Management**<br>
 Remote State in S3<br>
 Environment Separation<br>
 staging.tfvars & production.tfvars
@@ -84,7 +84,7 @@ staging.tfvars & production.tfvars
 </td>
 <td align="center" width="33%">
 
-⚙️ **𝐼𝓃𝒻𝓇𝒶𝓈𝓉𝓇𝓊𝒸𝓉𝓊𝓇𝑒 𝒜𝓊𝓉𝑜𝓂𝒶𝓉𝒾𝑜𝓃**<br>
+⚙️ **Infrastructure Automation**<br>
 EC2 with NGINX<br>
 S3-triggered Lambda<br>
 EventBridge Scheduling
@@ -92,22 +92,22 @@ EventBridge Scheduling
 </td>
 <td align="center" width="33%">
 
-🔄 **𝒜𝒹𝓋𝒶𝓃𝒸𝑒𝒹 𝐹𝑒𝒶𝓉𝓊𝓇𝑒𝓈**<br>
-Modules & Count<br>
-Dynamic Blocks<br>
+🔄 **Advanced Features**<br>
+Terraform Modules<br>
+Count & Dynamic Blocks<br>
 DynamoDB Integration
 
 </td>
 </tr>
 </table>
 
-### 💻 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+### 💻 **Full Stack Development Project**
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-🐍 **𝐵𝒶𝒸𝓀𝑒𝓃𝒹**<br>
+🐍 **Backend**<br>
 FastAPI (Python)<br>
 REST APIs<br>
 User Authentication
@@ -115,7 +115,7 @@ User Authentication
 </td>
 <td align="center" width="25%">
 
-⚛️ **𝐹𝓇𝑜𝓃𝓉𝑒𝓃𝒹**<br>
+⚛️ **Frontend**<br>
 React.js Interface<br>
 Axios Integration<br>
 React Hooks
@@ -123,7 +123,7 @@ React Hooks
 </td>
 <td align="center" width="25%">
 
-🗄️ **𝒟𝒶𝓉𝒶𝒷𝒶𝓈𝑒**<br>
+🗄️ **Database**<br>
 MySQL<br>
 CRUD Operations<br>
 Data Management
@@ -131,7 +131,7 @@ Data Management
 </td>
 <td align="center" width="25%">
 
-📊 **𝐹𝑒𝒶𝓉𝓊𝓇𝑒𝓈**<br>
+📊 **Features**<br>
 Data Visualization<br>
 API Integration<br>
 Real-time Updates
@@ -146,7 +146,7 @@ Real-time Updates
 
 <div align="center">
 
-## 🚀 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+## 🚀 **ABOUT ME**
 
 </div>
 
@@ -159,7 +159,7 @@ const raj = {
     currentRole: "Software Trainee Intern",
     company: "HTC Global Services",
     location: "India 🇮🇳",
-    currentFocus: "Cloud & Full Stack Dev",
+    currentFocus: "Cloud & Full Stack Development",
     funFact: "I turn coffee into code! ☕➡️💻",
     codeChefRating: 984,
     leetcodeRating: 1615,
@@ -174,20 +174,20 @@ const raj = {
 </td>
 <td width="50%">
 
-### 🎯 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗙𝗢𝗖𝗨𝗦
+### 🎯 **CURRENT FOCUS**
 
-🌩️ **𝒞𝓁𝑜𝓊𝒹 𝒯𝑒𝒸𝒽𝓃𝑜𝓁𝑜𝑔𝒾𝑒𝓈** - AWS Services & Terraform<br>
-🚀 **𝐹𝓊𝓁𝓁 𝒮𝓉𝒶𝒸𝓀 𝒜𝓅𝓅𝓈** - Modern Web Development<br>
-📊 **𝒟𝒶𝓉𝒶 𝒱𝒾𝓏** - React-based Analytics<br>
-🔧 **𝐼𝒶𝒞** - Infrastructure as Code
+🌩️ **Cloud Technologies** - AWS Services & Terraform<br>
+🚀 **Full Stack Applications** - Modern Web Development<br>
+📊 **Data Visualization** - React-based Analytics<br>
+🔧 **Infrastructure as Code** - Automated Deployments
 
-### 🏆 𝗔𝗖𝗛𝗜𝗘𝗩𝗘𝗠𝗘𝗡𝗧𝗦
+### 🏆 **ACHIEVEMENTS**
 
-🥇 **𝟗𝟖𝟒 𝗥𝗮𝘁𝗶𝗻𝗴** on CodeChef<br>
-🎖️ **𝗧𝗼𝗽 𝟮𝟬.𝟯𝟳%** globally on LeetCode<br>
-⭐ **𝟯-𝗦𝘁𝗮𝗿 𝗦𝗤𝗟** on HackerRank<br>
-🚀 **𝗔𝗪𝗦 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱** Cloud Practitioner<br>
-🤖 **𝗠𝗟 𝘁𝗼 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴** by ISRO
+🥇 **984 Rating** on CodeChef (Highest)<br>
+🎖️ **Top 20.37%** globally on LeetCode<br>
+⭐ **3-Star SQL** on HackerRank<br>
+🚀 **AWS Certified** Cloud Practitioner<br>
+🤖 **ML to Deep Learning** Certified by ISRO
 
 </td>
 </tr>
@@ -197,7 +197,7 @@ const raj = {
 
 <div align="center">
 
-## 🛠️ 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
+## 🛠️ **TECH STACK**
 
 </div>
 
@@ -205,32 +205,32 @@ const raj = {
 <tr>
 <td align="center" width="20%">
 
-### 💻 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,ts" height="50" />
+### 💻 **Programming**
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,ts" height="60" />
 
 </td>
 <td align="center" width="20%">
 
-### 🎨 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" height="50" />
+### 🎨 **Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" height="60" />
 
 </td>
 <td align="center" width="20%">
 
-### ⚙️ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql" height="50" />
+### ⚙️ **Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql" height="60" />
 
 </td>
 <td align="center" width="20%">
 
-### ☁️ 𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,github" height="50" />
+### ☁️ **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,github" height="60" />
 
 </td>
 <td align="center" width="20%">
 
-### 🔧 𝗧𝗼𝗼𝗹𝘀
-<img src="https://skillicons.dev/icons?i=vscode,figma,linux,windows" height="50" />
+### 🔧 **Tools**
+<img src="https://skillicons.dev/icons?i=vscode,figma,linux,windows" height="60" />
 
 </td>
 </tr>
@@ -240,7 +240,7 @@ const raj = {
 
 <div align="center">
 
-## 🎯 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+## 🎯 **FEATURED PROJECTS**
 
 </div>
 
@@ -248,28 +248,28 @@ const raj = {
 <tr>
 <td width="50%">
 
-### 🚀 [𝗛𝗶𝗿𝗲-𝗦𝗺𝗮𝗿𝘁 - 𝗟𝗮𝗯𝗼𝗿 𝗠𝗮𝗿𝗸𝗲𝘁𝗽𝗹𝗮𝗰𝗲](https://github.com/YOUR_USERNAME/hire-smart)
+### 🚀 **[Hire-Smart - Labor Marketplace](https://github.com/YOUR_USERNAME/hire-smart)**
 
-**🛠️ 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀:** MERN, Redux, TailwindCSS, Stripe, Cloudinary
+**🛠️ Tech Stack:** MERN, Redux, TailwindCSS, Stripe, Cloudinary
 
-🔐 **𝒜𝓊𝓉𝒽𝑒𝓃𝓉𝒾𝒸𝒶𝓉𝒾𝑜𝓃** - JWT-based & Role-based Access<br>
-💳 **𝒫𝒶𝓎𝓂𝑒𝓃𝓉 𝒫𝓇𝑜𝒸𝑒𝓈𝓈𝒾𝓃𝑔** - Integrated Stripe<br>
-🎨 **𝒰𝐼/𝒰𝒳** - Responsive with Framer Motion<br>
-📱 **𝑀𝑜𝒹𝓊𝓁𝒶𝓇 𝒟𝑒𝓈𝒾𝑔𝓃** - React, TailwindCSS, Redux<br>
-🚀 **𝒟𝑒𝓅𝓁𝑜𝓎𝓂𝑒𝓃𝓉** - CI/CD with Vercel & Railway
+🔐 **Authentication** - JWT-based & Role-based Access Control<br>
+💳 **Payment Processing** - Integrated Stripe Gateway<br>
+🎨 **UI/UX** - Responsive Design with Framer Motion<br>
+📱 **Modular Design** - React, TailwindCSS, Redux Toolkit<br>
+🚀 **Deployment** - CI/CD Pipeline with Vercel & Railway
 
 </td>
 <td width="50%">
 
-### 💰 [𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗙𝗶𝗻𝗮𝗻𝗰𝗲 𝗧𝗿𝗮𝗰𝗸𝗲𝗿](https://github.com/YOUR_USERNAME/finance-tracker)
+### 💰 **[Personal Finance Tracker](https://github.com/YOUR_USERNAME/finance-tracker)**
 
-**🛠️ 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀:** Next.js 15, TypeScript, MongoDB, Recharts
+**🛠️ Tech Stack:** Next.js 15, TypeScript, MongoDB, Recharts
 
-📊 **𝑅𝑒𝒶𝓁-𝓉𝒾𝓂𝑒 𝒟𝒶𝓈𝒽𝒷𝑜𝒶𝓇𝒹** - Financial Overview<br>
-📈 **𝒜𝓃𝒶𝓁𝓎𝓉𝒾𝒸𝓈** - Category-wise Data Visualization<br>
-🔄 **𝒟𝒶𝓉𝒶 𝐹𝑒𝓉𝒸𝒽𝒾𝓃𝑔** - Efficient with SWR<br>
-✅ **𝒱𝒶𝓁𝒾𝒹𝒶𝓉𝒾𝑜𝓃** - React Hook Form + Zod<br>
-🎯 **𝐹𝑒𝒶𝓉𝓊𝓇𝑒𝓈** - Transaction & Budget Management
+📊 **Real-time Dashboard** - Financial Overview & Analytics<br>
+📈 **Data Visualization** - Category-wise Charts with Recharts<br>
+🔄 **Data Fetching** - Efficient Caching with SWR<br>
+✅ **Form Validation** - React Hook Form + Zod<br>
+🎯 **Core Features** - Transaction & Budget Management
 
 </td>
 </tr>
@@ -279,7 +279,7 @@ const raj = {
 
 <div align="center">
 
-## 🏆 𝗖𝗢𝗠𝗣𝗘𝗧𝗜𝗧𝗜𝗩𝗘 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
+## 🏆 **COMPETITIVE PROGRAMMING**
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-984%20Rating-yellow?style=for-the-badge&logo=codechef&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-1615%20Rating-orange?style=for-the-badge&logo=leetcode&logoColor=white)
@@ -291,11 +291,11 @@ const raj = {
 
 <div align="center">
 
-## 🌟 𝗟𝗘𝗧'𝗦 𝗖𝗢𝗡𝗡𝗘𝗖𝗧!
+## 🌟 **LET'S CONNECT!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 💡 𝒪𝓅𝑒𝓃 𝓉𝑜 𝒸𝑜𝓁𝓁𝒶𝒷𝑜𝓇𝒶𝓉𝒾𝑜𝓃𝓈 𝒶𝓃𝒹 𝓃𝑒𝓌 𝑜𝓅𝓅𝑜𝓇𝓉𝓊𝓃𝒾𝓉𝒾𝑒𝓈!
+### 💡 **Open to collaborations and new opportunities!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
 
@@ -306,5 +306,5 @@ const raj = {
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100">
 
-### ✨ "𝒞𝑜𝒹𝑒 𝒾𝓈 𝓁𝒾𝓀𝑒 𝒽𝓊𝓂𝑜𝓇. 𝒲𝒽𝑒𝓃 𝓎𝑜𝓊 𝒽𝒶𝓋𝑒 𝓉𝑜 𝑒𝓍𝓅𝓁𝒶𝒾𝓃 𝒾𝓉, 𝒾𝓉'𝓈 𝒷𝒶𝒹." - 𝒞𝑜𝓇𝓎 𝐻𝑜𝓊𝓈𝑒 ✨
+### ✨ **"Code is like humor. When you have to explain it, it's bad." - Cory House** ✨
 </div>
