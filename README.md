@@ -3,7 +3,7 @@
 # Raj Dubey
 
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+Systems;Java+%C2%B7+Spring+Boot+%C2%B7+Microservices+%C2%B7+AWS;Building+Healthcare+Infrastructure+at+Scale;10%2B+Production+Microservices+Shipped)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Backend+Systems;Java+%C2%B7+Spring+Boot+%C2%B7+Microservices+%C2%B7+AWS;Building+Healthcare+Infrastructure+at+Scale;10%2B+Production+Microservices+Shipped)
 
 <br>
 
